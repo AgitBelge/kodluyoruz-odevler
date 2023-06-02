@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table{
+    width: 90%;
+}
+tbody{
+    font-size: medium;
+    position: relative;
+    width: 100%;
+    display: grid;
+}
+tr.search-bar1 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #EEEEEE;
+    width: 100%;
+}
+tr.search-bar2{
+    display: flex;
+    justify-content: space-around;
+
+}
+td.betven{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #7EE5DA;
+    width: 33%;
+}
+td.betven2{
+    background:#51aaa1;
+    min-width: 150px;
+}
+center.fontt{
+    margin-top: 10px;
+}
