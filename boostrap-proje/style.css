@@ -1,0 +1,20 @@
+.card-img{
+    padding-top: 15px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-i{
+    width: 125px;
+    border-radius: 50%;
+}
+.img-card{
+    width: 100%;
+    height: 100px;
+}
+.w-x{
+    width: 100%;
+    height: 350px;
+}
