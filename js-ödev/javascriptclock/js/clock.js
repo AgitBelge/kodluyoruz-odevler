@@ -13,7 +13,7 @@ function time(){
     let nowMinute = nowTime.getMinutes();
     let nowSecond = nowTime.getSeconds();
     let days = ["pazartesi","sali","çarşamba","perşembe","cuma","cumartesi","pazar"];
-    let nowdayes = days[nowDaye];
+    let nowdayes = days[nowDaye -1];
     console.log(nowdayes);
 
     let myClock = document.getElementById("myClock");
